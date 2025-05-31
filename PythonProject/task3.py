@@ -1,10 +1,10 @@
 class Shape:
     def area(self):
-        """Вычисление площади фигуры"""
+       #Вычисление площади фигуры
         raise NotImplementedError("Метод area() должен быть реализован в подклассе.")
 
     def perimeter(self):
-        """Вычисление периметра фигуры"""
+       #Вычисление периметра фигуры
         raise NotImplementedError("Метод perimeter() должен быть реализован в подклассе.")
 
 
